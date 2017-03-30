@@ -1,3 +1,3 @@
-# data For
+# Data For
 Ransomware Assignment 
 Network Traffic 
